@@ -1,19 +1,18 @@
 # Project proposal: Event App
 
-## 1.The tech stack I will use for my final project will be React and Node
+1.The tech stack I will use for my final project will be React and Node
 
-## 2. I will try to make this a full stack application. However, most of the focus might be front-end UI with react. 
+2. I will try to make this a full stack application. However, most of the focus might be front-end UI with react. 
 
-## 3. This will be a website application.
+3. This will be a website application.
 
-## 4. The goal for my project is for users to be able to find events by different searches such as the artists, team or even by date and city. 
+4. The goal for my project is for users to be able to find events by different searches such as the artists, team or even by date and city. 
 
-## 5. The type of users or demographic would be young adults to older of all genders mostly interested in music, festivals, sports, and media. 
+5. The type of users or demographic would be young adults to older of all genders mostly interested in music, festivals, sports, and media. 
 
+6. I would like to use data provided by an event side API and/or media related API to provide more search possibilities. The data would assist in finding more related events and also what is near the location of the user. This data includes artist, festival, or sports schedules around the area. Also, data regarding the seats in the location and available seating. 
 
-## 6. I would like to use data provided by an event side API and/or media related API to provide more search possibilities. The data would assist in finding more related events and also what is near the location of the user. This data includes artist, festival, or sports schedules around the area. Also, data regarding the seats in the location and available seating. 
-
-## 7.
+7.
 
 *a.* The database schema would be separated by event, user, artists, favorites
 
